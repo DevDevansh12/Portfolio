@@ -53,8 +53,8 @@ const Repo = () => {
             </div>
             <div className="mt-1">
               <p className="max-w-[90ch] font-semibold text-sm text-gray-200">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia
-                error voluptate laborum?
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. In
+                reprehenderit earum totam.
               </p>
             </div>
             <dl className="mt-6 flex gap-4 sm:gap-6">
@@ -82,7 +82,6 @@ const Repo = () => {
             )}
           </a>
         </div>
-        ))}
       </ul>
     </div>
   );
